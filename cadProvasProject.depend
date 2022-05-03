@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1651515709 source:c:\users\cliente\documents\cadprovasproject\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+
+1651514611 c:\users\cliente\documents\cadprovasproject\lista.h
+
+1651438689 source:c:\users\cliente\documents\cadprovasproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"lista.h"
+	"deque.h"
+
+1651514454 source:c:\users\cliente\documents\cadprovasproject\deque.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"deque.h"
+
+1651514444 c:\users\cliente\documents\cadprovasproject\deque.h
+

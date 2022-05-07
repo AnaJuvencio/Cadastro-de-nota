@@ -19,3 +19,6 @@ A Estrutura do tipo `Lista`, é uma sequência de elementos do mesmo tipo, podem
 Ou um ponteiro para o sucessor e o antecessor, como uma lista duplamente encadeada.
 
 <img src="https://github.com/anabias/Cadastro-de-nota/blob/main/listaDupla.jpg" alt="Lista duplamente encadeada" width="500"/>
+
+##Deque:
+A estrutura do tipo `Deque`, é conhecida como fila de duas extremidades (Double Ended QUEue, isto é, fila com duas saídas), ou seja, essa estrutura é um tipo especial de fila. O que faz o deque diferente é o fato de que a inserção de novos itens pode ocorrer no início ou no final e sua remoção também. Observe:

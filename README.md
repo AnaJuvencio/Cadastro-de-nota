@@ -24,3 +24,8 @@ Ou um ponteiro para o sucessor e o antecessor, como uma lista duplamente encadea
 A estrutura do tipo `Deque`, é conhecida como fila de duas extremidades (Double Ended QUEue, isto é, fila com duas saídas), ou seja, essa estrutura é um tipo especial de fila. O que faz o deque diferente é o fato de que a inserção de novos itens pode ocorrer no início ou no final e sua remoção também. Observe:
 
 <img src="https://github.com/anabias/Cadastro-de-nota/blob/main/dequeImg.jpg" alt="Deque" width="500"/>
+
+## Sentinela:
+Em listas encadeadas podemos usar o sentinela para a busca de chaves. Ele torna a lista circular pois fica no fim e no início dessa estrutura, então ao invés de verificar as extremidades sendo igual a **NULL**, averiguamos se elas retornam o sentinela.
+
+<img src="https://github.com/anabias/Cadastro-de-nota/blob/main/sentinela-img.jpg" alt="Sentinela" width="600"/>

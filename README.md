@@ -31,4 +31,4 @@ Em listas encadeadas podemos usar o `sentinela` para a busca de chaves. Ele torn
 <img src="https://github.com/anabias/Cadastro-de-nota/blob/main/sentinela-img.jpg" alt="Sentinela" width="600"/>
 
 ## Iterador:
-O `iterador` é um mecanismo criado para percorrer a estrutura (todos os elementos), porém ele não exibe sua representação (estrutura do iterador) interna para o usuário.
+O `iterador` é um mecanismo criado para percorrer a estrutura (todos os elementos), porém ele não exibe sua representação interna (estrutura do iterador) para o usuário.
